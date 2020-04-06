@@ -1,5 +1,5 @@
 h1, h2 {color: rgb(217, 240, 174); text-align: center;}
-body {background-image: url(/bluejupiter/img/skystar.jpg); background-size: cover; height: 400px;}
+body {background-image: url(skystar.jpg); background-size: cover; height: 400px;}
 
 #topmenu {
     height: 30px;
