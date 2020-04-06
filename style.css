@@ -1,0 +1,33 @@
+h1, h2 {color: rgb(217, 240, 174); text-align: center;}
+body {background-image: url(/bluejupiter/img/skystar.jpg); background-size: cover; height: 400px;}
+
+#topmenu {
+    height: 30px;
+    width: cover;
+}
+#topmenu ul li {
+    list-style: none;
+    color: white;
+    background-color: #2d2d2d;
+    float: left;
+    line-height: 30px;
+    vertical-align: middle;
+    text-align: center;
+}
+#topmenu .topmenu1 {
+    text-decoration:none;
+    color: white;
+    display: block;
+    width: 100px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#topmenu .topmenu1:hover {
+    color: rgb(60, 255, 0);
+    background-color: #4d4d4d;
+}
+
+.form1 {
+    color: darksalmon;
+    background-color: deepskyblue;
+}
